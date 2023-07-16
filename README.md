@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Rahial, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019🚀</div>  
+### <h3>I'm Rahial, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019🚀</h3>  
   
 
 -   

@@ -6,26 +6,16 @@
 
 ### <h3>I'm Rahial, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019🚀</h3>  
   
-
--   
-  
-
 - 🌱 I’m currently learning nextjs redux  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
--   
-  
-
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -40,7 +30,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -73,8 +62,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -84,7 +71,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">

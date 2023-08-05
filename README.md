@@ -1,15 +1,13 @@
-### Full stack JavaScript, NodeJS developer  
+  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <h3>I'm Rahial, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019🚀</h3>  
+### <h3>I'm Rahial, a full-stact developer 👨‍💻 </h3>  
   
-  - 🌱 I’m currently learning nextjs redux  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+<p>Hello and welcome to my github profile! I am a professional full-stack web developer with several years of experience. I am passionate about creating high-quality, responsive, and user-friendly web applications and have extensive experience in both front-end and back-end development. Specifically, I am proficient in the  
+Laravel framework and PHP programming language, as well as in HTML, CSS, and JavaScript, React.Js, Redux, Node.JS, Express.JS, MongoDB, MySQL.</p>
   
 <br/>  
 
